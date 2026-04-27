@@ -1,0 +1,14 @@
+# Ignorar logs y archivos temporales
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+
+# Ignorar configuración específica de LocalWP
+wp-config.php
+node_modules/
+.DS_Store
+
+# Ignorar archivos de sistema
+Thumbs.db
+ehthumbs.db
